@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T22:53:03.510Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="EXVOrelIcwvdV79rkFNZ" version="18.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-14T22:54:31.062Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="43mLpeoaK4pL9KHNDR2T" version="18.0.4" type="github" pages="4">
   <diagram id="enr_cvgc9IVR4_4QVP3G" name="Usecase_initial">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,13 +144,13 @@
         <mxCell id="i8jzid4jeQG2qEyt8aPa-0" />
         <mxCell id="i8jzid4jeQG2qEyt8aPa-1" parent="i8jzid4jeQG2qEyt8aPa-0" />
         <mxCell id="i8jzid4jeQG2qEyt8aPa-2" value="Sistema Académico " style="swimlane;startSize=0;" parent="i8jzid4jeQG2qEyt8aPa-1" vertex="1">
-          <mxGeometry x="254" y="68" width="470" height="625" as="geometry" />
+          <mxGeometry x="254" y="30" width="470" height="663" as="geometry" />
         </mxCell>
         <mxCell id="i8jzid4jeQG2qEyt8aPa-3" value="Consulta &lt;br style=&quot;font-size: 9px;&quot;&gt;notas/asistencia" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="i8jzid4jeQG2qEyt8aPa-2" vertex="1">
           <mxGeometry x="50" y="30" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i8jzid4jeQG2qEyt8aPa-4" value="Consulta EFSRT" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="i8jzid4jeQG2qEyt8aPa-2" vertex="1">
-          <mxGeometry x="20" y="80" width="110" height="40" as="geometry" />
+          <mxGeometry x="40" y="80" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i8jzid4jeQG2qEyt8aPa-5" value="Actualiza datos &lt;br style=&quot;font-size: 9px;&quot;&gt;personales" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="i8jzid4jeQG2qEyt8aPa-2" vertex="1">
           <mxGeometry x="11" y="150" width="110" height="50" as="geometry" />
@@ -171,7 +171,7 @@
           <mxGeometry x="38" y="444" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i8jzid4jeQG2qEyt8aPa-12" value="Asigna UD a &lt;br&gt;docente" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="i8jzid4jeQG2qEyt8aPa-2" vertex="1">
-          <mxGeometry x="7" y="517" width="110" height="50" as="geometry" />
+          <mxGeometry x="23" y="517" width="94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i8jzid4jeQG2qEyt8aPa-13" value="Registra &lt;br style=&quot;font-size: 9px;&quot;&gt;EFSRT" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="i8jzid4jeQG2qEyt8aPa-2" vertex="1">
           <mxGeometry x="350" y="281" width="90" height="50" as="geometry" />
